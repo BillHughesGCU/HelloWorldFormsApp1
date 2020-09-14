@@ -20,7 +20,7 @@ namespace HelloWorldFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             //This is a test
-            lblTest.Text = "This is a test!!";
+            lblTest.Text = "This is a test!! This is ";
         }
     }
 }
